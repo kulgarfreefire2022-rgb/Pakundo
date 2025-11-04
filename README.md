@@ -1,4 +1,4 @@
-for android "Termux" 
+for android "Termux" KEY : C75E6E73OD
 
 pkg install git -y 
 
